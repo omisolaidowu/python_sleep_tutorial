@@ -12,7 +12,7 @@ python_sleep
     ├── rate_limited_api_calls.py
     ├── real_time_data_processing.py
     ├── simulating_user_wait.py
-    ├── sleep_asyncion.py
+    ├── sleep_asyncio.py
     ├── sleep_thread.py
     ├── system_resource.py
     ├── test_behavior.py
@@ -27,7 +27,7 @@ python_sleep
 - **rate_limited_api_calls.py**: Implements exponential backoff for retrying API calls.
 - **real_time_data_processing.py**: Mimics real-time data arrival with random delays.
 - **simulating_user_wait.py**: Adds random delays to simulate human interaction.
-- **sleep_asyncion.py**: Shows how to use `asyncio.sleep()` for asynchronous tasks.
+- **sleep_asyncio.py**: Shows how to use `asyncio.sleep()` for asynchronous tasks.
 - **sleep_thread.py**: Demonstrates sleeping in multiple threads.
 - **system_resource.py**: Periodically checks and prints system resource usage.
 - **test_behavior.py**: Observes page transitions and delays in Selenium.
