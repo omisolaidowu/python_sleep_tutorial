@@ -4,18 +4,20 @@ This project is a hands-on tutorial demonstrating various use cases of Python's 
 
 ## Project Structure
 
+```
 python_sleep
-├── delaying_between_steps.py
-├── delaying_script_execution.py
-├── dynamic_content.py
-├── rate_limited_api_calls.py
-├── real_time_data_processing.py
-├── simulating_user_wait.py
-├── sleep_asyncion.py
-├── sleep_thread.py
-├── system_resource.py
-├── test_behavior.py
-├── waiting_for_external_resources.py
+    ├── delaying_between_steps.py
+    ├── delaying_script_execution.py
+    ├── dynamic_content.py
+    ├── rate_limited_api_calls.py
+    ├── real_time_data_processing.py
+    ├── simulating_user_wait.py
+    ├── sleep_asyncion.py
+    ├── sleep_thread.py
+    ├── system_resource.py
+    ├── test_behavior.py
+    ├── waiting_for_external_resources.py
+```
 
 ## Scripts Overview
 
